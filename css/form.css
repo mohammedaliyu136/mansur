@@ -1,0 +1,11 @@
+body{
+	background: purple;
+	color: white;
+	padding: 20px;
+	border: 15px;
+	border-radius: 10px;
+	margin: 30px 20px;
+}
+.container{
+	width: 60%
+}
